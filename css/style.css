@@ -1360,7 +1360,7 @@ and (min-width : 551px){
 /*-------------------------------------------------*/
 
 .contact {
-    background: url(../images/parallax/contact-bg.jpg);
+    background: url(.../images/parallax/contact-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
